@@ -1,4 +1,3 @@
--- SQLite
 WITH cars_hybrid AS (
     
     SELECT cars.brand,
